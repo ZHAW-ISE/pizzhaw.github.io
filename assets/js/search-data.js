@@ -7,14 +7,14 @@ ninja.data = [{
     title: "about",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/";
+      window.location.href = "/pizzhaw.github.io/";
     },
   },{id: "nav-blog",
           title: "blog",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/blog/";
+            window.location.href = "/pizzhaw.github.io/blog/";
           },
         },{id: "post-ctf-write-up-template",
         
@@ -24,14 +24,14 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/WriteUpTemplate/";
+            window.location.href = "/pizzhaw.github.io/blog/2025/WriteUpTemplate/";
           
         },
       },{id: "news-launch-of-the-zhaw-ctf-team-website",
           title: 'Launch of the ZHAW CTF Team Website',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/2025-12-24-Launch/";
+              window.location.href = "/pizzhaw.github.io/news/2025-12-24-Launch/";
             },},{
         id: 'social-discord',
         title: 'Discord',
