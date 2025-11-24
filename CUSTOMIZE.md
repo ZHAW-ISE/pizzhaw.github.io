@@ -264,7 +264,7 @@ To remove the publications, you can:
 - remove reference to publications page in our [\_pages/dropdown.md](_pages/dropdown.md)
 - remove `Jekyll Scholar` section in the [\_config.yml](_config.yml) file
 
-You can also: 
+You can also:
 
 - delete the [\_layouts/bib.liquid](_layouts/bib.liquid) file
 - delete [\_includes/bib_search.liquid](_includes/bib_search.liquid)
