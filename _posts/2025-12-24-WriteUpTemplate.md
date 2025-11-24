@@ -18,11 +18,11 @@ yourself later on and for others learning from your work.
 ## Template Structure
 
 - Challenge Overview
-  - **Challenge Name:**
+  - **Challenge Name**
   - **Category:** (Web, Crypto, Forensics, Reverse Engineering, etc.)
-  - **Difficulty:**
-  - **Description:**
-  - **Provided Files / URL:**
+  - **Difficulty or Initial Points or Points earned**
+  - **Description**
+  - **Provided Files / URL**
 - Goal: Describe the objective of the challenge and what you need to obtain (usually the flag).
 - Initial Analysis: Explain your first steps
   - What you examined first
