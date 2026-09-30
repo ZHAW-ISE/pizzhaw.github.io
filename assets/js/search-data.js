@@ -311,12 +311,24 @@ ninja.data = [{
           description: "Registration open for the next Pizza Hacking Night. Join us for an evening of CTF challenges, expert talks, networking, and free pizza.",
           section: "News",handler: () => {
               window.location.href = "/news/2026-09-21-Registration-PHN-Fall26/";
+            },},{id: "news-lunchtime-hacking-bootcamps-fall-2026",
+          title: 'Lunchtime Hacking Bootcamps (Fall 2026)',
+          description: "Level Up Your Cyber Skills. Join Our Lunchtime Hacking Bootcamps!",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-30-09-HackingBootCamp-Fall26/";
             },},{
         id: 'social-discord',
         title: 'Discord',
         section: 'Socials',
         handler: () => {
           window.open("https://discord.com/users/EXQGezaeaQ", "_blank");
+        },
+      },{
+        id: 'social-discord_secondary_url',
+        title: 'Discord_secondary_url',
+        section: 'Socials',
+        handler: () => {
+          window.open("", "_blank");
         },
       },{
         id: 'social-email',
