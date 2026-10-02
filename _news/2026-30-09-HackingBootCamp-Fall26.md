@@ -41,10 +41,3 @@ What you need to do before attending: Please install the software reverse engine
 Pack your lunch, bring your fully charged laptop with the tools installed, and join us at the Technikum. No advanced prior hacking experience is required—just a curious mind and an interest in cybersecurity!
 
 **Registration:** Please register via the form: [https://forms.gle/TbFUnjHkmvCAsT1R6](https://forms.gle/TbFUnjHkmvCAsT1R6)
-
-
-
-
-
-
-
