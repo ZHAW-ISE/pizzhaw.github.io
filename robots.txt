@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://pizzapwn.tech//sitemap.xml
+Sitemap: https://pizzapwn.ch//sitemap.xml
